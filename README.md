@@ -79,17 +79,18 @@ pip install -r requirements.txt
 
 📈 Sample Visualizations
 
-Top 10 genres on Netflix
+- Top 10 genres on Netflix
 
-Movie count per release year
+- Movie count per release year
 
-Distribution of content ratings
+- Distribution of content ratings
 
-Heatmap of movie counts by year and rating
+- Heatmap of movie counts by year and rating
 
 📚 Future Improvements
-Perform sentiment analysis on movie descriptions.
 
-Integrate IMDb ratings for deeper insights.
+- Perform sentiment analysis on movie descriptions.
 
-Build interactive dashboards using Plotly or Dash.
+- Integrate IMDb ratings for deeper insights.
+
+- Build interactive dashboards using Plotly or Dash.
