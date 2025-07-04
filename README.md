@@ -14,66 +14,71 @@ To visualize insights using plots and charts.
 To uncover trends in genres, release years and ratings.
 
 📁 Dataset
+
 The dataset used in this project is Netflix Movies.
 
 Key Columns:
 
-Title
+- Title
 
-Poster_Url
+- Poster_Url
 
-Original_Language
+- Original_Language
 
-Vote_Average
+- Vote_Average
 
-Release_year
+- Release_year
 
-Vote_Count
+- Vote_Count
 
-Popularity
+- Popularity
 
-Genre 
+- Genre 
 
-Overview
+- Overview
 
 🛠️ Technologies Used
 This project uses the following libraries:
 
-Pandas – For data loading, cleaning, and manipulation.
+- Pandas – For data loading, cleaning, and manipulation.
 
-NumPy – For numerical operations.
+- NumPy – For numerical operations.
 
-Matplotlib – For plotting static visualizations.
+- Matplotlib – For plotting static visualizations.
 
-Seaborn – For statistical graphics.
+- Seaborn – For statistical graphics.
 
-Jupyter Notebook – For creating and running the analysis interactively.
+- Jupyter Notebook – For creating and running the analysis interactively.
 
 📊 Analysis Performed
-Data cleaning: Handling missing values, formatting dates, and splitting genres.
 
-Frequency analysis: Most common genres, Popular Genre
+- Data cleaning: Handling missing values, formatting dates, and splitting genres.
 
-Temporal analysis: Number of movies released per year.
+- Frequency analysis: Most common genres, Popular Genre
 
-Ratings distribution: Distribution of maturity ratings across titles.
+- Temporal analysis: Number of movies released per year.
 
-Visualization of insights using bar chart and histograph.
+- Ratings distribution: Distribution of maturity ratings across titles.
+
+- Visualization of insights using bar chart and histograph.
 
 📦 Requirements
+
 Here are the required Python libraries:
 
-pandas
-numpy
-matplotlib
-seaborn
-jupyter
+1).pandas
+2).numpy
+3).matplotlib
+4).seaborn
+5).jupyter
+
 You can install them with:
 
 pip install -r requirements.txt
 
 
 📈 Sample Visualizations
+
 Top 10 genres on Netflix
 
 Movie count per release year
