@@ -1,4 +1,4 @@
-📊 Netflix Movies Data Analysis
+# 📊 Netflix Movies Data Analysis
 
 This project analyzes Netflix’s movie dataset using Python libraries in a Jupyter Notebook environment. The analysis explores patterns, trends, and insights related to Netflix's movie offerings, including genre distribution, ratings, release years, and more.
 
