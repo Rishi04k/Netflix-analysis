@@ -13,7 +13,7 @@ To visualize insights using plots and charts.
 
 To uncover trends in genres, release years and ratings.
 
-📁 Dataset
+## 📁 Dataset
 
 The dataset used in this project is Netflix Movies.
 
@@ -37,7 +37,7 @@ Key Columns:
 
 - Overview
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 This project uses the following libraries:
 
 - Pandas – For data loading, cleaning, and manipulation.
@@ -50,7 +50,7 @@ This project uses the following libraries:
 
 - Jupyter Notebook – For creating and running the analysis interactively.
 
-📊 Analysis Performed
+## 📊 Analysis Performed
 
 - Data cleaning: Handling missing values, formatting dates, and splitting genres.
 
@@ -62,22 +62,8 @@ This project uses the following libraries:
 
 - Visualization of insights using bar chart and histograph.
 
-📦 Requirements
 
-Here are the required Python libraries:
-
-1).pandas
-2).numpy
-3).matplotlib
-4).seaborn
-5).jupyter
-
-You can install them with:
-
-pip install -r requirements.txt
-
-
-📈 Sample Visualizations
+## 📈 Sample Visualizations
 
 - Top 10 genres on Netflix
 
@@ -87,7 +73,7 @@ pip install -r requirements.txt
 
 - Heatmap of movie counts by year and rating
 
-📚 Future Improvements
+## 📚 Future Improvements
 
 - Perform sentiment analysis on movie descriptions.
 
